@@ -11,8 +11,8 @@ FP----the number of false sample to predict as true  (false positive)
 TN----the number of false sample to predict as false (true negative)
 
 Precision------P=TP/(TP+FP)   
-recall---------R=TP/(TP+FN)   
-F1-------------F1=2TP/(2TP+FP+FN)   2/F1=1/P+1/R   
+recall-----------R=TP/(TP+FN)   
+F1---------------F1=2TP/(2TP+FP+FN)   2/F1=1/P+1/R   
 accuracy-------A=(TP+TN)/(TP+FN+FP+TN)
 
 
